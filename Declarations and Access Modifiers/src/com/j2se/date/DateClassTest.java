@@ -1,7 +1,9 @@
 package com.j2se.date;
 
 import java.util.Date;
-//import java.sql.Date; //Using this statement also will through ambiguous error 
+//import java.sql.Date; 
+/*Using the import statement above will through ambiguous error
+ * CE: reference to Date is ambiguous*/ 
 
 public class DateClassTest {
 
